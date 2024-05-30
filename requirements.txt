@@ -1,0 +1,5 @@
+huggingface_hub==0.22.2
+transformers==4.18.0
+gradio==3.0.20
+torch==1.11.0
+flask==2.0.2
